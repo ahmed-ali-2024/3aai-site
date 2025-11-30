@@ -1,0 +1,22 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  direction: rtl;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.hero-section {
+  background: url('https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2070&auto=format&fit=crop') no-repeat center center;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+.hero-section h1 {
+  font-weight: bold;
+}
+
+footer {
+  padding: 20px 0;
+}
